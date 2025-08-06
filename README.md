@@ -6,13 +6,10 @@ This project automates the extraction of real-time cryptocurrency data, includin
 
 ### The collected data is then analyzed to:
 
-Visualize price trends of top cryptocurrencies like Bitcoin, Ethereum, WETH, and Lido Staked ETH
+- Visualize price trends of top cryptocurrencies like Bitcoin, Ethereum,…
 
-Compare daily percentage changes across coins
-Identify average change patterns and trading volumes
+- Compare daily percentage changes across coins
 
-Analyze correlations between price, volume, and volatility
+- Identify average change patterns and trading volumes
 
-Discover mild positive correlation between price and volume (~0.26)
-
-Reveal slight negative correlation between price and daily % change (~–0.15), suggesting higher-priced coins tend to show more stability
+- Analyze correlations between price, volume, and volatility
