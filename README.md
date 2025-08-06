@@ -1,6 +1,9 @@
 # crypto-trend-tracker
 Automated Crypto Market Tracking Every 6 Hours from Yahoo Finance with Python
 
+<img width="1169" height="785" alt="image" src="https://github.com/user-attachments/assets/2ce77d7c-dab8-4af2-b64e-11a9183fab46" />
+
+
 ## Project Description
 This project automates the extraction of real-time cryptocurrency data, including coin name, price, change, change percentage, and volume, from Yahoo Finance every 6 hours over a 3-day period. The goal is to track market behavior and spot short-term trends. The script uses Python libraries like requests, BeautifulSoup, pandas, and seaborn to scrape, store, and visualize the data in a structured CSV file for ongoing analysis.
 
