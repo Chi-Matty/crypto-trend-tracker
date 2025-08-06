@@ -1,2 +1,2 @@
 # crypto-trend-tracker
-Automated 3-Day Crypto Monitoring from Yahoo Finance with Python
+Automated Crypto Market Tracking Every 6 Hours from Yahoo Finance with Python
